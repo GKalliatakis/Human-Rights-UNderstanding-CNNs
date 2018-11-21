@@ -13,7 +13,8 @@ called [MatDeepRep](https://github.com/GKalliatakis/MatDeepRep "MatDeepRep's Git
 This dataset was constructed with the specific purpose of capturing a range of real world situations of common human rights violations (e.g. child labour, child soldiers etc.).
 
 Images for all 4 violation categories can be directly accessed here [[download]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/HRUN.zip).
-The per-category images can be downloaded here:[[child labour]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/child_labour.zip) [[child soldiers]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/child_soldiers.zip) [[police violence]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/police_violence.zip) [[refugees]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/refugees.zip)
+
+The per-category images can be downloaded here: [[child labour]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/child_labour.zip) [[child soldiers]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/child_soldiers.zip) [[police violence]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/police_violence.zip) [[refugees]](https://github.com/GKalliatakis/Human-Rights-UNderstanding-CNNs/releases/download/v1.0/refugees.zip)
 
 ### CNNs for image classification trained on HRUN:
 
